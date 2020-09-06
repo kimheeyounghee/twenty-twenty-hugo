@@ -52,7 +52,7 @@ enable = true
 title = "Contact us for more information."
 [params.footer]
 address = ""
-content = "This may be a good place to introduce yourself and your site or include some credits."
+content = "개인용 포트폴리오"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
 hours = ""
 title = "About This Site"
