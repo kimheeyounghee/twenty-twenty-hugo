@@ -1,9 +1,8 @@
 ---
-title: "About"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: About
+description: This is meta description
 
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
+---
+현재 HUGO 테스트 중입니다.
+
+아직 배울 게 많은 학생입니다. 수원에 거주 중입니다.
