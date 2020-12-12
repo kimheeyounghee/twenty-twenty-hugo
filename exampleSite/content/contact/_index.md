@@ -1,10 +1,11 @@
 ---
-title: "Contact"
-bg_image: "images/2020-landscape-2.png"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: Contact
+bg_image: images/2020-landscape-2.png
+description: This is meta description
 
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+---
+## 김희영
+
+* 아주대학교, e-비즈니스학과
+* 취업준비 중
+* 현재 시험기간인데 딴짓 하는 중
