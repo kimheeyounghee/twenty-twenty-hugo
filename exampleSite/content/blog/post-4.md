@@ -1,18 +1,15 @@
 ---
-title: "From Signac to Matisse"
-date: 2020-03-14T15:40:24+06:00
-image : "images/2020-three-quarters-4.png"
-# author
-author : ["Admin"]
-# categories
-categories: ["tour"]
-tags: ["tour","visit"]
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
+title: "<브랜드 마케터들의 이야기>, 이승희 외 3명"
+date: 2020-12-12T14:00:00+00:00
+image: "/images/브랜드 마케터들의 이야기.jpg"
+author:
+- Heeyoung
+categories:
+- Book
+tags: []
+description: 첫번째 서평
+
 ---
+// 느낀 점 //
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
-
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+마케터라면 새로운 문화에 대해서 직접 체험하지는 않을지언정 그게 어떤 것인지는 알아야 한다는 말이 인상 깊었다. 나는 사실 개인방송이나 유튜브 콘텐츠들이 B급 문화에 속한다고 생각해서 잘 보지 않았기 때문이다. 하지만 그것은 우물 안 개구리의 이야기다. 사람을 상대해야 하는 마케터는 자신의 고객이 좋아하고 향유하는 문화가 어떤 것인지 알아야 한다.
