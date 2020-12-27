@@ -40,10 +40,10 @@ home = ["HTML", "RSS", "JSON"]
 author = "Themefisher"
 description = "This is meta description"
 [params.banner]
-heading = "테스트 페이지"
+heading = "1997-"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
-heading = "FORESRTRY는 상당히 편한 서비스입니다."
+heading = "기록"
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
